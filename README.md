@@ -1,4 +1,5 @@
 # hello-world
 
-just another repository
-適当な文章を書きなぐるだけよ。
+Hi!
+I'm DrYamaHiro.
+I don't have a good idea that I shoud write here.
